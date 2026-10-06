@@ -1,1 +1,2 @@
 This is my Git practice file
+Today I am learning how Git commits work.
