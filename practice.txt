@@ -3,3 +3,5 @@ Today I am learning how Git commits work.
 I can create, commit, and push changes to GitHub.
 changes made by kate
 practice conflict
+
+Changes made by Alina.
